@@ -1,6 +1,7 @@
 # Exercício 4 – Qualidade de Uso
 
 1. **Em sala de aula vimos que a usabilidade de um sistema está relacionada a 5 diferentes fatores. Identifique um exemplo de baixa usabilidade em um sistema interativo e apresente**
+   
    1. **Inclua a tela que ilustra o problema, indicando-o na imagem**
    
       ![](https://www.howtogeek.com/wp-content/uploads/2011/02/banner1.png)
@@ -16,7 +17,7 @@
    
    1. **A tela que ilustra o exemplo**
    
-      ![1567473159046](C:\Users\Ingrid\AppData\Roaming\Typora\typora-user-images\1567473159046.png)
+      ![](https://i.imgur.com/kmMgJgF.png)
    
    2. **Uma explicação sobre o sistema e o que o designer estaria comunicando através da tela ou sistema**
    
@@ -29,7 +30,7 @@
    
    1. **A tela que ilustra o exemplo**
    
-      ![1567474224165](C:\Users\Ingrid\AppData\Roaming\Typora\typora-user-images\1567474224165.png)
+      ![](https://i.imgur.com/gsd4x7N.png)
    
    2. **Os problemas que acredita que o usuário cego teria ao interagir com o leitor.**
    
