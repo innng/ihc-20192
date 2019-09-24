@@ -1,4 +1,4 @@
-# Exercício 1 – Design como Comunicação
+# Exercício 1 - Design como Comunicação
 
 ### Menu principal do jogo **Apex Legends**.
 

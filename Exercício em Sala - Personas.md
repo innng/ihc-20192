@@ -1,4 +1,4 @@
-# Exercício em Sala – Personas
+# Exercício em Sala - Personas
 
 Você foi contratado para desenvolver um aplicativo de carona específico para a comunidade UFMG. 
 

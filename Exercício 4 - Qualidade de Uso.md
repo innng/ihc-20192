@@ -1,4 +1,4 @@
-# Exercício 4 – Qualidade de Uso
+# Exercício 4 - Qualidade de Uso
 
 1. **Em sala de aula vimos que a usabilidade de um sistema está relacionada a 5 diferentes fatores. Identifique um exemplo de baixa usabilidade em um sistema interativo e apresente**
    
